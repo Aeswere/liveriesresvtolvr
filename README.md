@@ -12,3 +12,6 @@
 
 ### Step 2
 ![step 2](https://user-images.githubusercontent.com/20750227/229123640-9dc19b90-d22a-4a19-b3cb-b2448ab076c5.png)
+
+### Step 3
+![step 3](https://user-images.githubusercontent.com/20750227/229126912-36828709-0804-4ba8-b2b7-c6a539b07945.png)
