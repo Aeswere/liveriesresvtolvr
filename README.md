@@ -1,5 +1,3 @@
-to upload; click above link > probably sign-in/create account > make sure folder structure locally is as above, aka `discord#tag (folder/dir) / decal name (folder/dir) / decals (images), optional readme.md (markdown file for text and such)` (you can view my folder/directory as example) > click 'add file' dropdown (beside giant green code button) > upload files > drag/choose files > choose your recently created folder (*the one **with** your discord tag*) > add title below (small box) & description (if wanted, explain what is inside or something) > click 'create a new branch' (if there is more than one option) if so, name it with `discord#tag` > commit changes
-
 # Before Uploading
 ## File structure
 ![file structure](https://user-images.githubusercontent.com/20750227/229126635-27c3d44f-43a0-494e-baf4-71cff622aebf.png)
