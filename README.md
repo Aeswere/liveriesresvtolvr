@@ -2,7 +2,8 @@ to upload; click above link > probably sign-in/create account > make sure folder
 
 # Before Uploading
 ## File structure
-![file structure](https://user-images.githubusercontent.com/20750227/229122910-1a44f195-cd4f-438e-8dfd-2e9ebd034929.png)
+![file structure](https://user-images.githubusercontent.com/20750227/229126635-27c3d44f-43a0-494e-baf4-71cff622aebf.png)
+
 
 #
 
